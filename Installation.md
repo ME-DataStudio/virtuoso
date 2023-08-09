@@ -15,3 +15,6 @@ $ docker run \
 ```
 
 When Virtuoso is up and running go to http://localhoast:8890  
+
+Openlink has Virtuoso publiced on [github](https://github.com/openlink/virtuoso-opensource)  
+I used the latest release with the same major version number (ie 7.2) for [linux x86-64](https://github.com/openlink/virtuoso-opensource/releases/download/v7.2.10/virtuoso-opensource.x86_64-generic_glibc25-linux-gnu.tar.gz) to get all the VAD's.
